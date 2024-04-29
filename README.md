@@ -8,7 +8,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/flask-data-visualization-dashboard.git
+git clone (https://github.com/Sagar-7007/flask-data-visualization-dashboard)
 Install the required dependencies:
 bash
 Copy code
